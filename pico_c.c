@@ -1,4 +1,4 @@
-)))c
+,,,c
 /*Lara Segovia Jonathan
 19210515
 Lenguaje de interfaz
@@ -23,5 +23,5 @@ int main() {
     }
     return 0;
 }
-)))
+,,,
 [Ver video de como se creo el programa]: https://www.loom.com/share/5ca9de3637e1430ba72f553de7ea9380
