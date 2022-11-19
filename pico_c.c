@@ -1,3 +1,4 @@
+```cpp
 /*Lara Segovia Jonathan
 19210515
 Lenguaje de interfaz
@@ -23,3 +24,4 @@ int main() {
     return 0;
 }
 
+```
